@@ -1,3 +1,8 @@
+.card-short-id.hide {
+	display: inline;
+	font-weight:bold;
+}
+
 .list-total {
 	color: #006580;
 	font-size: 16px;
